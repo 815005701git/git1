@@ -5,6 +5,6 @@ echo "<hr>";
 
 echo "data";
 
-echo "中文";
+echo "hhahahahhahahahh";
 
 
